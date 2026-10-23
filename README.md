@@ -2,7 +2,7 @@
 
 Invitt helps you plan an event and get people there, right from Claude, Cursor or any remote MCP client. Tell it about a team offsite, a client dinner, a customer evening at your shop, a dinner at home or a birthday. Invitt suggests places to host sized to your group, proposes an RSVP deadline and sets everything up, drawing on your past events for context. Then it emails the invitations and keeps everything on track, from the guest list and the vendors to the timeline and the reminders, so everything is ready, in place and on time. Nothing falls through the cracks. It's the easiest way to pull off a successful event.
 
-Guests don't need an account or an app. Invitations go out by email or WhatsApp, and guests RSVP in one tap. Hosts can share the invite to WhatsApp after sending, and guests can opt in to WhatsApp reminders (coming soon).
+Guests don't need an account or an app. Invitations go out by email or WhatsApp, and guests RSVP in one tap. Reminders go by email or WhatsApp to guests who opt in, and hosts can share the invite to WhatsApp after sending.
 
 **Connect URL:** `https://agent.invitt.net/mcp`
 
@@ -54,7 +54,7 @@ Point it at `https://agent.invitt.net/mcp`. Sign-in uses standard OAuth with an 
 ## What's included
 **Plan:** venue ideas near you sized to your group, a suggested RSVP deadline, your past events for context, and creating and updating events as plans change.
 
-**Invite and follow up:** add guests, invitations by email or WhatsApp after you confirm, one RSVP link for any group chat, RSVP status and headcounts (adults and kids), and reminders to people who haven't replied. Hosts can share the invite to WhatsApp after sending, and guests can opt in to WhatsApp reminders (coming soon).
+**Invite and follow up:** add guests, invitations by email or WhatsApp after you confirm, one RSVP link for any group chat, RSVP status and headcounts (adults and kids), and reminders to people who haven't replied. Reminders go by email or WhatsApp to guests who opt in, and hosts can share the invite to WhatsApp after sending.
 
 ## Pricing
 Invitt is free during launch.
